@@ -1,7 +1,7 @@
 # MobileProjectDatabase ( 2 ) 😊
 This was made as "Project 2" for mobile application course!  
-Laravel would need:
- -DB_DATABASE=your_database_name   
+Laravel would need:  
+ -DB_DATABASE=your_database_name  
   DB_USERNAME=your_username       for the phpmyadmin connection
   DB_PASSWORD=your_password
   
